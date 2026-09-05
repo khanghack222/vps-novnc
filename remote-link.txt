@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://flame-msie-cached-packaging.trycloudflare.com/vnc.html
+URL       : https://affiliated-assignment-humanitarian-galaxy.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-05 17:04:30
+Created   : 2026-09-05 21:51:15
 =======================================================
