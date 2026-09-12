@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://links-immigrants-mustang-miracle.trycloudflare.com/vnc.html
+URL       : https://parliament-geo-jpg-ethics.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-12 13:18:23
+Created   : 2026-09-12 17:35:22
 =======================================================
